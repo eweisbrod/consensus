@@ -1,0 +1,9 @@
+"section","description","firm_quarter_obs","fdp_firm_quarter_obs"
+"CCM Sample","Merged CRSP-Compustat Dataset from 2002 to 2020",330910,
+"CCM Sample","with non-missing assets, sales, and common equity, and with sales>$25 million and assets > $100 million and price > $1",208933,
+"CCM Sample","with historical CUSIP same as header CUSIP",169834,
+"Common Sample","with coverage by I/B/E/S",156188,
+"Common Sample","with coverage by all five FDPs",109847,549235
+"Common Sample","with control variables",98657,493285
+"Common Sample","truncated sample",94030,470150
+"Miss and Beat Sample","with at least one FDP earnings surprise <= -0.015 and at least one FDP earnings surprise >= 0.015",8731,43655

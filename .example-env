@@ -1,0 +1,5 @@
+RAW_DATA_DIR=path/to/raw_data
+DATA_DIR=path/to/derived_data
+OUTPUT_DIR=path/to/output
+WCT_DIR=path/to/WCT2
+SAS_WORK_DIR=
